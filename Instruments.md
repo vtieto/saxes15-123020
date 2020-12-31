@@ -11,3 +11,10 @@ contrabass
 timpani
 harp
 
+Jazz Instruments:
+trumpet
+sax
+piano
+bass
+drums
+
